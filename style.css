@@ -102,6 +102,7 @@ section .main .buttons button:hover{
 }
 section .main .lang{
     margin-top: 20px;
+    font-size: 14px;
 }
 section .footer{
     position: absolute;
